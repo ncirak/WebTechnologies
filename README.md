@@ -1,7 +1,7 @@
 # Web Technologies
 
-Technology Store Website project completed while taking Web Technologies course at University of Maribor
+Technology Store Website project while taking Web Technologies course at University of Maribor
 
-Tech that I used: </br>
+Technogies that used in project: </br>
 Backend: Express </br>
 Frontend: HTML, Bootstrap (CSS), JS
