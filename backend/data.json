@@ -1,0 +1,101 @@
+[
+    {
+        "id": 0,
+        "name": "Apple Macbook Air",
+        "price": 999,
+        "description": "Power. It’s in the Air.",
+        "type": "computer",
+        "img": "/images/computes/air.jpg",
+        "qty": 5
+    },
+    {
+        "id": 1,
+        "name": "Apple Macbook Pro",
+        "price": 1299,
+        "description": "All systems Pro.",
+        "type": "computer",
+        "img": "/images/computes/macbookpro.jpg",
+        "qty": 7
+    },
+    {
+        "id": 2,
+        "name": "Apple Mac",
+        "price": 1399,
+        "description": "Appple Mac with 8 gb ram",
+        "type": "computer",
+        "img": "/images/computes/mac.jpg",
+        "qty": 5
+    },
+    {
+        "id": 3,
+        "name": "Apple IPHONE 12",
+        "price": 799,
+        "description": "Blast past fast",
+        "type": "phone",
+        "img": "/images/phones/iphone12.jpg",
+        "qty": 25
+    },
+    {
+        "id": 4,
+        "name": "Apple IPHONE 11",
+        "price": 699,
+        "description": "Blast past fast 64 GB 11",
+        "type": "phone",
+        "img": "/images/phones/iphone11.jpg",
+        "qty": 117
+    },
+    {
+        "id": 5,
+        "name": "Apple IPHONE 12 Mini",
+        "price": 749,
+        "description": "Blast past fast 64 GB 12 Mini beast",
+        "type": "phone",
+        "img": "/images/phones/iphone12mini.jpg",
+        "qty": 55
+    },
+    {
+        "id": 6,
+        "name": "Apple IPHONE 12 Mini",
+        "price": 749,
+        "description": "Blast past fast 64 GB 12 Mini beast",
+        "type": "phone",
+        "img": "/images/phones/iphone12mini.jpg",
+        "qty": 55
+    },
+    {
+        "id": 7,
+        "name": "SmartPhone Charger",
+        "price": 19,
+        "description": "SmartPhone Charger 1m cable long",
+        "type": "phoneComponent",
+        "img": "/images/cable.jpg",
+        "qty": 55
+    },
+    {
+        "id": 8,
+        "name": "Headphone",
+        "price": 99,
+        "description": "High quality Music Pleasure",
+        "type": "phoneComponent",
+        "img": "/images/headphone.jpg",
+        "qty": 71
+    },
+    {
+        "id": 9,
+        "name": "Apple Keyboard",
+        "price": 99,
+        "description": "Awesome White Apple Keyboard",
+        "type": "pcComponent",
+        "img": "/images/keyboard_white.jpg",
+        "qty": 52
+    },
+    {
+        "id": 10,
+        "name": "Black Keyboard",
+        "price": 79,
+        "description": "Black Keyboard",
+        "type": "pcComponent",
+        "img": "/images/keyboard_black.jpg",
+        "qty": 57
+    }
+]
